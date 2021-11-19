@@ -7,3 +7,8 @@ __You can freely change everything__
 
 - gaps
 - second font
+
+### Todo 
+
+- [ ] dependencies
+- [ ] complete list of patches
